@@ -1,0 +1,10 @@
+# Data hasil runtime — tidak perlu diupload ke GitHub
+tickets_db.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.venv/

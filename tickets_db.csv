@@ -1,5 +1,0 @@
-Ticket ID,Title,Description,Priority,Department,Status,Engineer,Created At,Resolved At
-TICK-F23902B0,Server DataBase Down,Gagal melakukan koneksi ke cluster utama ERP,Medium,IT,Resolved,Three,2026-07-17T00:40:59.015136,2026-07-17T01:03:18.604030
-TICK-8B978962,Windows Error,Tampilan Komputer/PC BlueScreen,Medium,Operations,Resolved,Joe,2026-07-17T00:43:13.955612,2026-07-21T20:03:00.830165
-TICK-3DFB94D1,Email Outlook Tidak Bisa di Buka,Email Outlook Penuh,Low,Finance,Open,Unassigned,2026-07-17T01:42:22.732491,
-TICK-85B6C79B,Printer Error,Printer tidak dapat ngeprint,Low,Finance,In Progress,Boy,2026-07-21T20:01:34.012397,
