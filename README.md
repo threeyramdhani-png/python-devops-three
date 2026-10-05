@@ -98,3 +98,13 @@ Tidak ada dependency eksternal — seluruhnya menggunakan library bawaan Python.
 
 ---
 *Proyek ini dibuat sebagai final project dalam program bootcamp Python programming.*
+cat >> README.md <<'EOF'
+
+## Alur Kontribusi
+
+Proyek ini dikelola dengan Git dan GitHub. Setiap perubahan dikerjakan di branch terpisah, lalu digabungkan ke `main` melalui Pull Request:
+
+1. Buat branch fitur dari `main`, misalnya `feature/update-readme`.
+2. Commit perubahan dengan pesan yang jelas.
+3. Push branch ke GitHub, lalu buka Pull Request.
+4. Setelah ditinjau, gabungkan (merge) ke `main`.
