@@ -98,7 +98,6 @@ Tidak ada dependency eksternal — seluruhnya menggunakan library bawaan Python.
 
 ---
 *Proyek ini dibuat sebagai final project dalam program bootcamp Python programming.*
-cat >> README.md <<'EOF'
 
 ## Alur Kontribusi
 
